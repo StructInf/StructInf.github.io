@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Benchmarking Structural Inference Methods for Dynamical Interacting Systems
+# title: Benchmarking Structural Inference Methods for Dynamical Interacting Systems
+title: StructInf
 email: structinf2023@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -50,6 +51,17 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-feed
   - jekyll-sitemap
 
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default                   # Use default.html layout by default for all files
+  - scope:
+      type: posts
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,12 +70,17 @@ plugins:                                # If you build your site on gh-pages, on
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - .sass-cache/
+  - about.markdown
+  - dataset.md
+  - Gemfile
+  - Gemfile.lock
+  - index.markdown
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
