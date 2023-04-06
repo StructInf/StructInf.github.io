@@ -1,24 +1,31 @@
 ---
-title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
-background:
-  img: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
-  by: CHUTTERSNAP
-  href: https://unsplash.com/photos/UmncJq4KPcA
+title: About the Benchmark
+description: Description of the project.
+background: /assets/theme/images/Background_1.jpeg
 permalink: /about/
-
 ---
 
-{:.alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/main/pages/about.md).
+## Abstract
 
-This is a default page. See [configuration]({{ '/docs/configuration/' | relative_url }}) to learn more about **pages**.
+Here comes the abstract of our paper.
 
-To remove this page, you need to:
 
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
 
-## Some on-going work
 
-Going to add author information to this page.
+
+## License
+
+This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+## Acknowledgement
+
+The generation, collection, and storage of the dataset are under the project BSIMDS, which is supported by a collaboration project between the High-Performance Computing Team of the University of Luxembourg (ULHPC) and Amazon Web Services (AWS). This project is partially supported by the Audacity project GENERIC of the Institute for Advanced Studies (IAS) at the University of Luxembourg.
+
+
+
+## Update Plan
+
+We will update the page "Teams" with more details after the publish of the paper.
+
+
+

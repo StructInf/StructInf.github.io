@@ -13,8 +13,18 @@
 - text: Benchmark
   href: /benchmark/
 - text: Documentation
-  href: https://benchmarking-structural-inference-methods.readthedocs.io/en/latest/index.html
-  new_window: true
+  menu: # Dropdown menu (one level deep only)
+  - text: About the Dataset
+    href: https://benchmarking-structural-inference-methods.readthedocs.io/en/latest/about_dataset.html
+    new_window: true
+  - text: About the Methods
+    href: https://benchmarking-structural-inference-methods.readthedocs.io/en/latest/about_methods.html
+    new_window: true
+  - text: How to Reproduce
+    href: https://benchmarking-structural-inference-methods.readthedocs.io/en/latest/reproduce.html
+    new_window: true
+#   href: https://benchmarking-structural-inference-methods.readthedocs.io/en/latest/index.html
+#   new_window: true
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Installation
 #     href: /docs/installation/
