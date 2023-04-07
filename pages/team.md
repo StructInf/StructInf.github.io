@@ -7,6 +7,6 @@ permalink: /team/
 
 
 
-## The Project is created and supported by the team of StructInf!
+## The Project is created and supported by the team of StructInfer!
 
 Will refine this page with more details.

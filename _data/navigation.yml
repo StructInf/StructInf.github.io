@@ -11,7 +11,11 @@
 - text: Download
   href: /download/
 - text: Benchmark
-  href: /benchmark/
+  menu: # Dropdown menu (one level deep only)
+  - text: Methods
+    href: /methods/
+  - text: Results
+    href: /benchmark/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: About the Dataset
