@@ -74,6 +74,11 @@ exclude:
   - dataset.md
   - _posts/2023-04-05-welcome-to-jekyll.markdown
   - _posts/2023-04-07-welcome-to-jekyll.markdown
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
