@@ -1,8 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -28,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  jekyll new --skip-bundle .
+github_username:  structinf2023.
 
 # Build settings
 # theme: minima
@@ -49,7 +44,7 @@ logo: /assets/theme/images/pure_LOGO.png # Logo in navbar, will be displayed wit
 markdown: kramdown
 plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed
-  - jekyll-sitemap
+#   - jekyll-sitemap
 
 
 # FRONTMATTER DEFAULTS
@@ -73,11 +68,12 @@ defaults:
 exclude:
 #   - .sass-cache/
   - about.markdown
-  - dataset.md
   - Gemfile
   - Gemfile.lock
   - index.markdown
+  - dataset.md
   - _posts/2023-04-05-welcome-to-jekyll.markdown
+  - _posts/2023-04-07-welcome-to-jekyll.markdown
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
