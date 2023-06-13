@@ -11,8 +11,8 @@ permalink: /
 
 The StructInf dataset is a collection of synthetic dynamical systems.
 
-- The dataset contains more than 2,772 trajectories of interacting dynamical systems.
-- The feature dimensions vary from one to four.
+- The dataset contains more than 2,310 trajectories of interacting dynamical systems.
+- The features are one-dimensional or four-dimensional.
 - The trajectories with Gaussian noise enable the objective evaluation of the robustness of structural inference methods.
 
 ## Important Links
