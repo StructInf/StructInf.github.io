@@ -10,7 +10,7 @@ toc: true
 
 Links to download data.
 
-The data are packed according to the number of nodes in the graph and the type of simulation.
+The data are packed according to the number of nodes in the graph and the type of simulation. Will include larger graphs in the future.
 
 
 ### a) Trajectories with Springs Simulation
