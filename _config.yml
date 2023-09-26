@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  structinf2023.
+# github_username:  structinf2023.
 
 # Build settings
 # theme: minima
@@ -31,7 +31,7 @@ github_username:  structinf2023.
 
 # Theme settings
 posts_on_home: 3
-github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
+github_edit: false # true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
