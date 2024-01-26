@@ -15,7 +15,7 @@ This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/li
 
 ## Acknowledgement
 
-Will update this section before ICLR 2024.
+Will update this section before ICML 2024.
 
 ## Update Plan
 
