@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Abstract
 
-In the quest to unravel the complexities of dynamical systems, the initial imperative is to unveil their inherent topological structure, a key determinant of system organization. Achieving this necessitates the deployment of robust structural inference techniques capable of deriving this structure from observed system behaviors. However, these methods are often tailor-made for specific domains and datasets, lacking a unified and objective framework for comparative assessment. In response to this pressing challenge, we present a comprehensive benchmarking study encompassing 12 structural inference methodologies sourced from diverse disciplines. Our evaluation protocol spans dynamical systems generated via two distinct simulation paradigms and encompasses 11 distinct interaction graph typologies. We gauge the methods' performance in terms of accuracy, scalability, robustness, and sensitivity to graph properties. Key findings emerge: 1) Deep learning techniques excel in the context of multi-dimensional data, 2) classical statistics and information-theory-based methods exhibit exceptional accuracy and resilience, and 3) method performance correlates positively with the average shortest path length of the graph. Our benchmark not only aids researchers in method selection for specific problem domains but also serves as a catalyst for inspiring novel methodological advancements in the field.
+Understanding complex dynamical systems begins with identifying their topological structures, which expose the organization of the systems. This requires robust structural inference methods that can deduce structure from observed behavior. However, existing methods are often domain-specific and lack a standardized, objective comparison framework. We address this gap by benchmarking 13 structural inference methods from various disciplines on simulations representing two types of dynamics and 11 interaction graph models, supplemented by a biological experimental dataset to mirror real-world application. We evaluated the methods for accuracy, scalability, robustness, and sensitivity to graph properties. Our findings indicate that deep learning methods excel with multi-dimensional data, while classical statistics and information theory based approaches are notably accurate and robust. Additionally, performance correlates positively with the graph's average shortest path length. This benchmark should aid researchers in selecting suitable methods for their specific needs and stimulate further methodological innovation.
 
 ## License
 
@@ -15,9 +15,11 @@ This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/li
 
 ## Acknowledgement
 
-Will update this section before ICML 2024.
+Will update this section before NeurIPS 2024.
 
 ## Update Plan
+
+- We will document the benchmark with 'Read the Docs'.
 
 - We will update the page "Teams" with more details after the publish of the paper.
 

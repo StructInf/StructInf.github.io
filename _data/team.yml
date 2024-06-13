@@ -1,15 +1,37 @@
 # Project team members listed below will appear on the /team page
 
-- name: Authors of StructInf
-  role: LOL # Will appear next to name
-  # image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Aaron Wang
+  role: PhD Student at the University of Luxembourg
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+    Interested in graph stuffs. 
+    [Personal Website.](https://wang422003.github.io/)
+  orcid: 0000-0001-7809-0622
+  googlescholar: 03a5OXgAAAAJ
+  twitter: wang_aoran
+  github: wang422003
+  email: aoran.wang@uni.lu
 
+- name: Tsz Pan Tong
+  role: PhD Student at the University of Luxembourg 
+  description: >
+    Structural Inference, Deep Learning, Graph Neural Network, Gene Regulatory Network, AI4Science.
+  orcid: 0000-0001-8111-5886
+  googlescholar: gd2cZVUAAAAJ
+  github: 1250326
+  email: tszpan.tong@uni.lu
+
+- name: Andrzej Mizera
+  role: PostDoc at the University of Warsaw 
+  description: >
+    Systems Biology, Computational Mathematical Modelling, Analysis of Signalling Pathways and Gene Regulatory Networks. [Personal Website.](https://www.mimuw.edu.pl/~amizera/)
+  orcid: 0000-0002-6351-2877
+  googlescholar: 6O_oWFUAAAAJ
+  email: andrzej.mizera@ideas-ncbr.pl
+
+- name: Jun Pang
+  role: Assistant Professor at the University of Luxembourg  
+  description: >
+    Formal methods, security and privacy, graph machine learning, computational systems biology, complex networks. [Personal Website.](https://satoss.uni.lu/members/jun/)
+  orcid: 0000-0002-4521-4112
+  googlescholar: 0JjOM_gAAAAJ
+  email: jun.pang@uni.lu

@@ -9,9 +9,9 @@ permalink: /
 
 ## About
 
-The StructInfer dataset is a collection of synthetic dynamical systems.
+The DoSI dataset is a collection of synthetic dynamical systems.
 
-- The dataset contains more than 2,310 trajectories of interacting dynamical systems.
+- The dataset contains more than 213,445 trajectories of interacting dynamical systems.
 - The features are one-dimensional or four-dimensional.
 - The trajectories with Gaussian noise enable the objective evaluation of the robustness of structural inference methods.
 
@@ -21,12 +21,12 @@ See the following pages for details:
 
 - [Download Dataset]({{ '/download/' | relative_url }})
 - [Benchmark]({{ '/benchmark/' | relative_url }})
-- Documentation: See attached StructInfer-docs.pdf
-  &nbsp;
 
 ## Announcement
 
-*Sep. 25, 2023* Website and GitHub updated for submission.
+*Jun. 13, 2024* Website and GitHub updated with EMT results and RCSI results.
+
+*Sep. 25, 2023* Website and GitHub updated for double-blind submission.
 
 *Apr. 07, 2023* Website is online.
 

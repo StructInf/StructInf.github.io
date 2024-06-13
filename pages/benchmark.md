@@ -161,6 +161,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>98.59 &#177; 0.01</td>
         <td>76.41 &#177; 0.01</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>99.81 &#177; 0.01</td>
+        <td>99.46 &#177; 0.01</td>
+        <td>99.50 &#177; 0.01</td>
+        <td style="border-right: 2px solid white;">98.04 &#177; 0.01</td>
+        <td>99.72 &#177; 0.01</td>
+        <td>99.43 &#177; 0.00</td>
+        <td>98.60 &#177; 0.01</td>
+        <td>80.01 &#177; 0.01</td>
+    </tr>
 </table>
 
 ### b) AUROC values (in %) of investigated structural inference methods on CRNA trajectories
@@ -313,6 +324,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>50.24 &#177; 0.04</td>
         <td>51.26 &#177; 0.01</td>
         <td>50.87 &#177; 0.02</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>87.51 &#177; 0.02</td>
+        <td>78.11 &#177; 0.05</td>
+        <td>69.82 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">64.80 &#177; 0.03</td>
+        <td>51.15 &#177; 0.02</td>
+        <td>50.81 &#177; 0.04</td>
+        <td>51.10 &#177; 0.02</td>
+        <td>50.00 &#177; 0.02</td>
     </tr>
 </table>
 
@@ -467,6 +489,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>50.46 &#177; 0.03</td>
         <td>51.07 &#177; 0.01</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>81.80 &#177; 0.01</td>
+        <td>75.62 &#177; 0.02</td>
+        <td>74.51 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">72.40 &#177; 0.02</td>
+        <td>53.70 &#177; 0.05</td>
+        <td>50.28 &#177; 0.03</td>
+        <td>51.61 &#177; 0.03</td>
+        <td>53.82 &#177; 0.02</td>
+    </tr>
 </table>
 
 ### d) AUROC values (in %) of investigated structural inference methods on GCN trajectories.
@@ -620,9 +653,20 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>52.96 &#177; 0.03</td>
         <td>50.78 &#177; 0.03</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>97.66 &#177; 0.01</td>
+        <td>93.92 &#177; 0.02</td>
+        <td>88.69 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">88.01 &#177; 0.02</td>
+        <td>53.31 &#177; 0.05</td>
+        <td>59.23 &#177; 0.03</td>
+        <td>54.30 &#177; 0.02</td>
+        <td>50.44 &#177; 0.02</td>
+    </tr>
 </table>
 
-### e) AUROC values (in %) of investigated structural inference methods on GGN trajectories.
+### e) AUROC values (in %) of investigated structural inference methods on GRN trajectories.
 
 <table class="table table-dark table-striped">
     <thead>
@@ -772,6 +816,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>56.25 &#177; 0.02</td>
         <td>57.15 &#177; 0.02</td>
         <td>62.13 &#177; 0.02</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>93.88 &#177; 0.02</td>
+        <td>93.01 &#177; 0.02</td>
+        <td>90.35 &#177; 0.01</td>
+        <td style="border-right: 2px solid white;">89.90 &#177; 0.03</td>
+        <td>77.45 &#177; 0.03</td>
+        <td>65.77 &#177; 0.03</td>
+        <td>59.93 &#177; 0.02</td>
+        <td>60.15 &#177; 0.03</td>
     </tr>
 </table>
 
@@ -926,6 +981,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>56.50 &#177; 0.02</td>
         <td>53.85 &#177; 0.02</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>96.70 &#177; 0.01</td>
+        <td>93.46 &#177; 0.02</td>
+        <td>88.02 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">83.96 &#177; 0.01</td>
+        <td>62.08 &#177; 0.04</td>
+        <td>60.05 &#177; 0.02</td>
+        <td>55.65 &#177; 0.03</td>
+        <td>52.84 &#177; 0.02</td>
+    </tr>
 </table>
 
 ### g) AUROC values (in %) of investigated structural inference methods on LN trajectories
@@ -1078,6 +1144,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>56.18 &#177; 0.03</td>
         <td>55.73 &#177; 0.03</td>
         <td>52.30 &#177; 0.02</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>97.30 &#177; 0.02</td>
+        <td>94.42 &#177; 0.02</td>
+        <td>88.02 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">84.26 &#177; 0.02</td>
+        <td>60.28 &#177; 0.03</td>
+        <td>60.15 &#177; 0.02</td>
+        <td>57.56 &#177; 0.03</td>
+        <td>53.48 &#177; 0.02</td>
     </tr>
 </table>
 
@@ -1232,6 +1309,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>56.07 &#177; 0.04</td>
         <td>58.80 &#177; 0.01</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>99.70 &#177; 0.01</td>
+        <td>92.73 &#177; 0.02</td>
+        <td>88.05 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">85.49 &#177; 0.02</td>
+        <td>73.61 &#177; 0.04</td>
+        <td>66.08 &#177; 0.02</td>
+        <td>57.90 &#177; 0.03</td>
+        <td>58.74 &#177; 0.02</td>
+    </tr>
 </table>
 
 ### i) AUROC values (in %) of investigated structural inference methods on RNLO trajectories
@@ -1384,6 +1472,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>57.10 &#177; 0.02</td>
         <td>64.50 &#177; 0.05</td>
         <td>66.01 &#177; 0.02</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>97.30 &#177; 0.01</td>
+        <td>83.05 &#177; 0.03</td>
+        <td>80.43 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">79.04 &#177; 0.02</td>
+        <td>69.92 &#177; 0.04</td>
+        <td>59.42 &#177; 0.03</td>
+        <td>60.99 &#177; 0.04</td>
+        <td>60.24 &#177; 0.02</td>
     </tr>
 </table>
 
@@ -1538,6 +1637,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>54.83 &#177; 0.01</td>
         <td>51.72 &#177; 0.02</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>94.13 &#177; 0.02</td>
+        <td>82.66 &#177; 0.01</td>
+        <td>81.21 &#177; 0.01</td>
+        <td style="border-right: 2px solid white;">73.42 &#177; 0.02</td>
+        <td>67.58 &#177; 0.03</td>
+        <td>55.84 &#177; 0.02</td>
+        <td>55.04 &#177; 0.02</td>
+        <td>53.24 &#177; 0.03</td>
+    </tr>
 </table>
 
 ### k) AUROC values (in %) of investigated structural inference methods on VN trajectories
@@ -1691,7 +1801,84 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>73.68 &#177; 0.02</td>
         <td>68.81 &#177; 0.02</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>97.03 &#177; 0.01</td>
+        <td>95.31 &#177; 0.01</td>
+        <td>94.48 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">90.72 &#177; 0.03</td>
+        <td>91.53 &#177; 0.02</td>
+        <td>82.27 &#177; 0.04</td>
+        <td>74.08 &#177; 0.02</td>
+        <td>70.29 &#177; 0.03</td>
+    </tr>
 </table>
+
+## Benchmarking on EMT Dataset
+
+The results shown in the table are the average AUROC values of 10 runs on the EMT trajectories. 
+
+### AUROC values (in %) of investigated structural inference methods on EMT dataset.
+
+<table class="table table-dark table-striped">
+    <thead>
+        <th style="border-bottom: 2px solid white; border-right: 2px solid white;">Method</th>
+        <th style="border-bottom: 2px solid white;">AUROC</th>
+    </thead>
+    <tr>
+        <td style="border-right: 2px solid white;">ppcor</td>
+        <td>55.31 &#177; 0.00</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">TIGRESS</td>
+        <td>56.32 &#177; 0.28</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">ARACNe</td>
+        <td>57.22 &#177; 0.00</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">CLR</td>
+        <td>51.41 &#177; 0.00</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">PIDC</td>
+        <td>54.53 &#177; 0.00</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">Scribe</td>
+        <td>54.82 &#177; 0.00</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">dynGENIE3</td>
+        <td>44.42 &#177; 0.05</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">XGBGRN</td>
+        <td>55.63 &#177; 0.74</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">NRI</td>
+        <td>52.09 &#177; 0.06</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">ACD</td>
+        <td>51.14 &#177; 0.03</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">MPM</td>
+        <td>52.43 &#177; 0.07</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">iSIDG</td>
+        <td>52.58 &#177; 0.06</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>53.02 &#177; 0.07</td>
+    </tr>
+</table>
+
 
 ## Benchmarking on Trajectories with Noise
 
@@ -1848,6 +2035,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>67.52 &#177; 0.03</td>
         <td>68.75 &#177; 0.02</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>73.09 &#177; 0.03</td>
+        <td>74.50 &#177; 0.03</td>
+        <td>76.83 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">76.01 &#177; 0.02</td>
+        <td>63.90 &#177; 0.02</td>
+        <td>64.72 &#177; 0.02</td>
+        <td>65.31 &#177; 0.03</td>
+        <td>66.62 &#177; 0.02</td>
+    </tr>
 </table>
 
 ### b) AUROC values (in %) of investigated structural inference methods on BN trajectories with 3 (N3) and 4 (N4) levels of Gaussian noise.
@@ -2001,6 +2199,17 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>58.08 &#177; 0.02</td>
         <td>59.70 &#177; 0.02</td>
     </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>54.20 &#177; 0.02</td>
+        <td>54.72 &#177; 0.02</td>
+        <td>56.44 &#177; 0.02</td>
+        <td style="border-right: 2px solid white;">59.43 &#177; 0.03</td>
+        <td>52.47 &#177; 0.03</td>
+        <td>53.02 &#177; 0.03</td>
+        <td>59.50 &#177; 0.02</td>
+        <td>58.34 &#177; 0.03</td>
+    </tr>
 </table>
 
 ### c) AUROC values (in %) of investigated structural inference methods on BN trajectories with 5 level of Gaussian noise.
@@ -2100,6 +2309,13 @@ The results shown in the tables are the average AUROC values of 10 runs on the t
         <td>58.82 &#177; 0.03</td>
         <td>59.08 &#177; 0.01</td>
         <td>60.70 &#177; 0.02</td>
+    </tr>
+    <tr>
+        <td style="border-right: 2px solid white;">RCSI</td>
+        <td>52.00 &#177; 0.04</td>
+        <td>55.31 &#177; 0.02</td>
+        <td>57.43 &#177; 0.02</td>
+        <td>58.10 &#177; 0.03</td>
     </tr>
 </table>
 
