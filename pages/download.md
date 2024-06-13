@@ -302,3 +302,10 @@ Links to download data. The trajectories with noise only consist of those genera
         <td>-</td>
     </tr>
 </table>
+
+
+-----------------------------------------------
+
+## EMT Trajectories
+
+EMT dataset can be downloaded from [Link](https://github.com/wang422003/Benchmarking-Structural-Inference-Methods-for-Interacting-Dynamical-Systems/tree/main/src/simulations/emt36_grn_network).
